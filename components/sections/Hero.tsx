@@ -22,7 +22,7 @@ export function Hero() {
 
                 <p className="max-w-2xl text-lg text-muted-foreground sm:text-xl mb-10 leading-relaxed">
                     Create stunning, high-performance web applications with our premium tools.
-                    Designed for developers who demand the best in design and functionality.
+                    Designed for developers who demand the best in design and functionality.a
                 </p>
 
                 <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
