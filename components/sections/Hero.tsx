@@ -12,7 +12,7 @@ export function Hero() {
             <div className="container mx-auto flex flex-col items-center text-center px-4 sm:px-6 lg:px-8">
                 <div className="inline-flex items-center rounded-full border px-3 py-1 text-sm font-medium text-muted-foreground mb-8 backdrop-blur-sm bg-background/50">
                     <span className="flex h-2 w-2 rounded-full bg-primary mr-2" />
-                    announcing our beta release
+                    announcing our beta releasedddsddfsdf
                 </div>
 
                 <h1 className="max-w-4xl text-5xl font-extrabold tracking-tight sm:text-6xl md:text-7xl lg:text-8xl mb-6">
@@ -29,7 +29,7 @@ export function Hero() {
                     <Button size="lg" className="h-12 px-8 text-base">
                         Get Started Now <ArrowRight className="ml-2 h-4 w-4" />
                     </Button>
-                    <Button variant="outline" size="lg" className="h-12 px-8 text-base">
+                    <Button variant="outline" size="lg" className="h-12 px-8 text-base">gi
                         View Documentation
                     </Button>
                 </div>
